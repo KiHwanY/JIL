@@ -8,24 +8,15 @@ ORM JPA 공부한 내용을 작성합니다.
 
 <br>
 
-## 🗂️ Memoirs  
-> 회고록
+## 🗂️ Repositories  
 
-- [ 화학 연구원 출신 주니어 개발자 2023년 회고록 ](https://drg2524.tistory.com/154)
-
-<br>
-
-## 📌Project
-> 실무 프로젝트, 토이 프로젝트
-
-- [ 토이 프로젝트 여행 리뷰 사이트 프로젝트 후기 ](https://drg2524.tistory.com/133)
-- [ 주니어 개발자 STT-CTI 프로젝트 후기 ](https://drg2524.tistory.com/183)
+- [ 자바 ORM 표준 JPA 프로그래밍 - 기본 ](https://github.com/KiHwanY/JPA_Basic)
+- [ 자바 ORM 표준 JPA 프로그래밍 - 실전 예제 소스 ](https://github.com/KiHwanY/JPA_Example_Shop)
+- [ 자바 ORM 표준 JPA 프로그래밍 - 객체지향 쿼리 언어 ](https://github.com/KiHwanY/JPA_JPQL)
 
 <br>
 
 ## 🌐 Tech Stack
 
-- [ Spring Framework ](https://drg2524.tistory.com/category/%5B%20JAVA%20%5D/JAVA%20Spring)
-- [ RESTful API ](https://drg2524.tistory.com/category/%5B%20JAVA%20%5D/JAVA%20RESTful%20API)
 - [ ORM/JPA ](https://drg2524.tistory.com/category/%5B%20ORM%20%5D/JPA)
 
