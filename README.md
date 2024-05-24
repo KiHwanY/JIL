@@ -3,7 +3,7 @@
 </br>
 
 # 🔔 Introduce
-ORM JPA 공부한 내용을 작성합니다.
+ORM JPA 소스 코드와 공부한 내용을 작성합니다.
 본문은 [ 블로그 ](https://drg2524.tistory.com/)에 작성되어 있습니다.
 
 <br>
